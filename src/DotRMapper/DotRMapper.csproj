@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>DotRMapper</RootNamespace>
+    <AssemblyName>DotRMapper</AssemblyName>
+    <Version>1.0.0</Version>
+    <Authors>Refatora</Authors>
+    <Company>Refatora</Company>
+    <Product>DotRMapper</Product>
+    <PackageId>DotRMapper</PackageId>
+    <Description>A convention-based object-to-object mapper for .NET, inspired by AutoMapper.</Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/refatorainformatica/dotrmapper</RepositoryUrl>
+    <PackageTags>mapper;mapping;object-mapper;automapper;dotnet</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+</Project>
