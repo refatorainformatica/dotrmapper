@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.jpg" alt="DotRMapper — .NET Library · Object Mapping" width="100%" />
+</p>
+
 # DotRMapper
 
 [![.NET 8](https://img.shields.io/badge/.NET-8.0-512BD4)](https://dotnet.microsoft.com/)
